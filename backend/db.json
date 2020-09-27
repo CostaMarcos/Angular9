@@ -1,0 +1,19 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Honda Civic",
+            "price": 19000
+        },
+        {
+            "id": 2,
+            "name": "Gol G5",
+            "price": 15000
+        },
+        {
+            "id": 3,
+            "name": "Honda City",
+            "price": 12000
+        }
+    ]
+}
